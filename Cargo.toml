@@ -1,7 +1,7 @@
 [package]
-name = "yew-learn-1"
+name = {{crate_name}}
 version = "0.2.0"
-authors = ["mishaszu@gmail.com"]
+authors = {{authors}}
 edition = "2018"
 
 [lib]
